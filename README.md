@@ -58,7 +58,6 @@ I value clean and maintainable code that prioritizes correctness and clarity.
 ## 🌐 Links
 
 - Portfolio: https://edlawit-portfolio-nine.vercel.app  
-- GitHub: https://github.com/Edlawit-H  
 - Email: edlawithuluwork82@gmail.com  
 
 ---
